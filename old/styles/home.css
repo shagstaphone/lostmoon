@@ -1,0 +1,12 @@
+div#mailingliststicker {
+		background-image: url(../images/mailingliststicker.png);
+		background-repeat: no-repeat;
+		width: 415px;
+		height: 110px;
+}
+
+div#mailingliststicker div.topspin-widget {
+		position: absolute;
+		top: 970px;
+		left: 20px;
+}

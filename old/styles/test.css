@@ -1,0 +1,12 @@
+div#stickynote {
+		background-image: url(../images/stickynote.png);
+		background-repeat: no-repeat;
+		width: 400px;
+		height: 400px;
+}
+
+div#stickynote div.topspin-widget {
+		position: absolute;
+		top: 120px;
+		left: 35px;
+}

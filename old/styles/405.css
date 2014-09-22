@@ -1,0 +1,12 @@
+div#freewaysign {
+		background-image: url(../images/freewaysign.png);
+		background-repeat: no-repeat;
+		width: 450px;
+		height: 110px;
+}
+
+div#freewaysign div.topspin-widget {
+		position: absolute;
+		top: 520px;
+		left: 20px;
+}

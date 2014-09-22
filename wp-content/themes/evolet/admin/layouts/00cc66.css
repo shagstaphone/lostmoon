@@ -1,0 +1,81 @@
+.colored { color:#00CC66;}
+.link, .meta2 a { color:#00CC66;}
+.color-line { background:#00CC66}
+a.button_readmore:hover {
+	background-color:#00CC66;
+}
+.service:hover > h4 { color:#00cc66;}
+#jstwitter .tweet a {
+	color: #00CC66;
+}
+.comment .button_readmore:hover {
+	background-color:#00cc66;
+}
+.form-wrapper #submit:hover,
+.form-wrapper #submit:focus,
+#submit_form:hover,
+#submit_form:focus {	
+	background-color: #00cc66;
+	background-image: none;
+	border: 1px solid #00cc66;
+}
+.menu ul a:hover {
+	background-color: #00cc66;	
+	background-image: none;	
+}
+.menu ul li:first-child a:hover:after {
+	border-bottom-color: #00cc66; 
+}
+
+.menu ul ul li:first-child a:hover:after {
+	border-right-color: #00cc66; 
+	border-bottom-color: transparent; 	
+}
+ul#filter-sidebar li.current a, ul#filter-sidebar a:hover { text-decoration: none; color:#00cc66;  }
+ul#filter-sidebar li.current a { color: #00cc66;}
+.pagination li a:hover, .pagination li.current a, .page-numbers:hover, .pagination .current {
+	background: #00cc66;	
+}
+ul.navigation-sidebar li.current a, ul.navigation-sidebar a:hover { text-decoration: none; color:#00cc66;  }
+ul.navigation-sidebar li.current a { color: #00cc66;}
+
+ul.navigation-sidebar a:hover {
+	color:#00cc66;
+}
+.new-item { 
+	background-color:#00CC66;
+}
+.featured { 
+	background-color:#00CC66;
+}
+.more{
+	background-color:#00CC66;
+}
+.ca-more{
+	background-color:#00CC66;
+}
+.ca-close{
+	background-color:#00CC66;
+}
+.ca-item .title { 
+	background-color:#00CC66;
+}
+.mega-button {
+	background-color:#00CC66;
+}
+.ca-content .live {
+	background-color:#00CC66;
+}
+
+.ca-content .buy {
+	background-color:#00CC66;
+}
+.va-slice h3:hover{
+	color:#00CC66;
+}
+.va-slice ul li a{
+	background:#00CC66;
+}
+.va-more{
+	background-color:#00CC66;
+}

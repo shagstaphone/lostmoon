@@ -1,0 +1,82 @@
+.tweet_list li a{ color:#49fbed;}
+.colored { color: #49fbed;}
+.link { color: #49fbed;}
+.color-line { background:#49fbed}
+a.button_readmore:hover {
+	background-color:#49fbed;
+}
+.service:hover > h4 { color:#49fbed;}
+.comment .button_readmore:hover {
+	background-color:#49fbed;
+}
+.form-wrapper #submit:hover,
+.form-wrapper #submit:focus,
+#submit_form:hover,
+#submit_form:focus {	
+	background-color: #49fbed;
+	background-image: none;
+	border: 1px solid #49fbed;
+}
+#menu ul a:hover {
+	background-color: #ff302a;	
+	background-image: none;	
+}
+#menu ul li:first-child a:hover:after {
+	border-bottom-color: #49fbed; 
+}
+
+#menu ul ul li:first-child a:hover:after {
+	border-right-color: #49fbed; 
+	border-bottom-color: transparent; 	
+}
+ul#filter-sidebar li.current a, ul#filter-sidebar a:hover { text-decoration: none; color:#49fbed;  }
+ul#filter-sidebar li.current a { color: #49fbed;}
+.pagination li a:hover, .pagination li.current a {
+	background: #49fbed;	
+}
+ul.navigation-sidebar li.current a, ul.navigation-sidebar a:hover { text-decoration: none; color:#49fbed;  }
+ul.navigation-sidebar li.current a { color: #49fbed;}
+
+ul.navigation-sidebar a:hover {
+	color:#49fbed;
+}
+#jstwitter .tweet a {
+	color: #49fbed;
+}
+.new-item { 
+	background-color:#49fbed;
+}
+.featured { 
+	background-color:#49fbed;
+}
+.more{
+	background-color:#49fbed;
+}
+.ca-more{
+	background-color:#49fbed;
+}
+.ca-close{
+	background-color:#49fbed;
+}
+.ca-item .title { 
+	background-color:#49fbed;
+}
+.mega-button {
+	background-color:#49fbed;
+}
+.ca-content .live {
+	background-color:#49fbed;
+}
+
+.ca-content .buy {
+	background-color:#49fbed;
+}
+.va-slice h3:hover{
+	color:#49fbed;
+}
+.va-slice ul li a{
+	background:#49fbed;
+}
+.va-more{
+	background-color:#49fbed;
+}

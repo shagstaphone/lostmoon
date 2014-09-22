@@ -1,0 +1,9 @@
+div#desk {
+	/*controls height of the desk with "div#paper height" - below*/
+	height: 2500px;
+}
+
+div#paper {
+	/*controls height of the paper (should be "div#desk height" - 100)*/
+	height: 2400px;
+}
