@@ -78,11 +78,11 @@ function admin_header_style() {
 
 add_editor_style();
 
-add_custom_image_header('header_style', 'admin_header_style');
-//add_theme_support('custom-header', $args);
+//add_custom_image_header('header_style', 'admin_header_style');
+add_theme_support( 'custom-header', array( 'header_style', 'admin_header_style' ) );
 
-add_custom_background();
-
+//add_custom_background();
+add_theme_support('custom-background');
 
 
 
